@@ -21,9 +21,6 @@
   About
 </h2>
 
-I'm a software engineer from Romania with 6+ years spent somewhere
-between the frontend, the backend, Unreal Engine 🎮, and the logs 🔍.
-
 🛠️ I build full-stack applications and regularly rediscover that every
 "simple feature" comes with at least one unexpected edge case 🐛.
 
